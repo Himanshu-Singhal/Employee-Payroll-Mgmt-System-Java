@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PayrollDec</string>
+    <string-array name="empType">
+        <item>Please Select</item>
+        <item>Full Time</item>
+        <item>Part Time</item>
+        <item>Intern</item>
+    </string-array>
+    <string-array name="PtType">
+        <item>Please Select</item>
+        <item>Commission Based</item>
+        <item>Fixed Based</item>
+    </string-array>
+    <string-array name="VType">
+        <item>Please Select</item>
+        <item>Car</item>
+        <item>Motorcycle</item>
+    </string-array>
+    <string-array name="CType">
+        <item>Please Select</item>
+        <item>Sedan</item>
+        <item>SUV</item>
+        <item>Van</item>
+        <item>Convertible</item>
+        <item>Limo</item>
+    </string-array>
+    <string-array name="MType">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>
